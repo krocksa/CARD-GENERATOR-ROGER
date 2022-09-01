@@ -1,1 +1,15 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: #0e7e12;
+}
+.container {
+  padding-top: 2%;
+}
+.row {
+  background: white;
+  border: 1px solid black;
+  margin: auto;
+  height: 600px;
+  width: 500px;
+  border-radius: 5%;
+}
